@@ -6,8 +6,8 @@ Welcome to My GitHub Profile.
 
 ## 🙋‍♂ About Me
 
-- 🎓 Final Year BE-ECE student at *KSR College of Engineering*, Tamil Nadu  
-- 💻 Interested in *Web & App Development*  
+- 🎓 Final Year BE-ECE student at *KSR College of Engineering*, Tiruchengode 
+- 💻 Interested in *Web Development*  
 - 🔭 Currently learning *React JS*
 ---
 
