@@ -14,7 +14,7 @@ Welcome to My GitHub Profile.
 ## 💼 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,mysql,Bootstrap,github,git" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,mysql,bootstrap,github,git" />
 </p>
 
 ---
